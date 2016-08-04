@@ -7,9 +7,9 @@
 
 ## View Orders 
 
-Login to [http://test.fdpay.in/]<br/>
-email id : admin@demo.com
-password : demo@123
+	Login to [http://test.fdpay.in/] <br/>
+	email id : admin@demo.com
+	password : demo@123
 
 ##Note
 
