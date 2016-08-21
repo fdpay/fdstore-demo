@@ -5,8 +5,9 @@ No coding just few settings to start your own store on your own brand name. You 
 
 ![preview](https://github.com/fdpay/fdstore-demo/blob/master/images/full-screen.PNG)
 
-## E-Commerce Settings
+## fd cart 
 
+![preview](https://github.com/fdpay/fdstore-demo/blob/master/images/cart.PNG)
 
 ## View Orders 
 
