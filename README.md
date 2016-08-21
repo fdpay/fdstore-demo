@@ -5,56 +5,6 @@ No coding just few settings to start your own store on your own brand name. You 
 
 ![preview](https://github.com/fdpay/fdstore-demo/blob/master/images/full-screen.PNG)
 
-## Features 
-
-- Readymade Cart (No Coding)
-- Cart Manipulation
-  - Add Product 
-  - Delete Product
-  - Update Product Quantity
-- Login Feature : register one time and shop from all partner site without registration.
-  - Guest Checkout (Auto registration of user on fdpay.in in case of new user)
-  - Login (Login will your fdpay.in login which will be valid accorss all our partner sites, So one login and shop from every where.)
-  - Forgot Password
-- Address Feature : add your address one time on any partner site it will be avaible to all our partner site those how are using our plugin
-  - View all your previous address
-  - Add new address (Simple and Quick)
-  - Delete the non existing address
-- Cart Preview : user can preview cart before shop and validate to avoid false payment or false order.
-- Pre Intergated Payment Gateway
-  - Netbanking (All major banks of India)
-  - Credit Card, Debit Card, American Express (We except all kind of cards)
-  - Wallet (paytm, payumoney, freecharge, mobikwik, olamoney)
-
-We secure our payment using razorpay, easebuzz, payumoney, instamojo and lot more payment solution.
-
-Store owner can update there store settings from there panel at fdpay.in 
-- Update Cart Icon Color and Position 
-  - "top-right" corner position and "red" color is the default value for cart icon.
-- Shipping Cost
-  - Specify Avg Shipping Cost (50 Rs. per 500grm is default value.)
-  - Free Shipping feature (if Specifed cost is 0 then there will be no shipping on website)
-  - Custom shipping (if Store want to specify free shipping on purchase of 2000 Rs. something like this.)
-- Global Discount on Cart (always in percentage)
-  -  for example if you want to specify 5% discount on website
-  -  for example if you want to specify 10% discount when cart value more than 2000 Rs.
-- Extra Charges on Cart (always in percentage), Store owner can specify deduction like service charges, payment gateway charges etc.
-- Tax Deduction settings on Store
-- Secure your token, so no one can use your token.
-- Orders Management
-  - Update Orders Status (SHIPPED, REJECT, CANCEL, READY TO SHIP, DELIVERED, COMPLET)
-  - Reject Orders (refund on the fly)
-  - Auto Generated Invoice (integrated with QR Code, to scan and view on mobile phone.)
-  - Auto Generated Shipping Label for each orders.
-  - Pre Integrated Shipping Tracking System with top 22 Shipping brands.
-- All your order settelment will goes to your bank accounts.
-
-many more features yet to come ... 
-
-## fd cart 
-![preview](https://github.com/fdpay/fdstore-demo/blob/master/images/cart.PNG)
-
-
 ## <a href="http://fdpay.in/cart/index.html" target="_blank">Live Demo</a>
 
 ## How to use this sample code 
@@ -129,11 +79,61 @@ Every "Add to Cart" button is a product, So you can use your own style to show y
 
 ![preview](https://github.com/fdpay/fdstore-demo/blob/master/images/product.PNG)
 
-## Conclusion
+## Congratulations, Website is ready to launch
 
 You website is ready to launch, You can add as many product you want, It is just an extension of Jquery(Javascript Framework), with preintegrated payment gateway so you no need to worry about payment solution, No need to hire any developer and no need to invest any single penny, 
 
 You will be getting awesome and cool website in just few mints. 
+
+
+## Features 
+
+- Readymade Cart (No Coding)
+- Cart Manipulation
+  - Add Product 
+  - Delete Product
+  - Update Product Quantity
+- Login Feature : register one time and shop from all partner site without registration.
+  - Guest Checkout (Auto registration of user on fdpay.in in case of new user)
+  - Login (Login will your fdpay.in login which will be valid accorss all our partner sites, So one login and shop from every where.)
+  - Forgot Password
+- Address Feature : add your address one time on any partner site it will be avaible to all our partner site those how are using our plugin
+  - View all your previous address
+  - Add new address (Simple and Quick)
+  - Delete the non existing address
+- Cart Preview : user can preview cart before shop and validate to avoid false payment or false order.
+- Pre Intergated Payment Gateway
+  - Netbanking (All major banks of India)
+  - Credit Card, Debit Card, American Express (We except all kind of cards)
+  - Wallet (paytm, payumoney, freecharge, mobikwik, olamoney)
+
+We secure our payment using razorpay, easebuzz, payumoney, instamojo and lot more payment solution.
+
+Store owner can update there store settings from there panel at fdpay.in 
+- Update Cart Icon Color and Position 
+  - "top-right" corner position and "red" color is the default value for cart icon.
+- Shipping Cost
+  - Specify Avg Shipping Cost (50 Rs. per 500grm is default value.)
+  - Free Shipping feature (if Specifed cost is 0 then there will be no shipping on website)
+  - Custom shipping (if Store want to specify free shipping on purchase of 2000 Rs. something like this.)
+- Global Discount on Cart (always in percentage)
+  -  for example if you want to specify 5% discount on website
+  -  for example if you want to specify 10% discount when cart value more than 2000 Rs.
+- Extra Charges on Cart (always in percentage), Store owner can specify deduction like service charges, payment gateway charges etc.
+- Tax Deduction settings on Store
+- Secure your token, so no one can use your token.
+- Orders Management
+  - Update Orders Status (SHIPPED, REJECT, CANCEL, READY TO SHIP, DELIVERED, COMPLET)
+  - Reject Orders (refund on the fly)
+  - Auto Generated Invoice (integrated with QR Code, to scan and view on mobile phone.)
+  - Auto Generated Shipping Label for each orders.
+  - Pre Integrated Shipping Tracking System with top 22 Shipping brands.
+- All your order settelment will goes to your bank accounts.
+
+many more features yet to come ... 
+
+## fd cart 
+![preview](https://github.com/fdpay/fdstore-demo/blob/master/images/cart.PNG)
 
 ## Who is using fdpay.in
 
