@@ -9,8 +9,7 @@ No coding just few settings to start your own store on your own brand name. You 
 
 ![preview](https://github.com/fdpay/fdstore-demo/blob/master/images/cart.PNG)
 
-## - [Live demo](http://fdpay.in/cart/index.html)
-
+## <a href="http://fdpay.in/cart/index.html" target="_blank">Live Demo</a>
 
 ## View Orders 
 
