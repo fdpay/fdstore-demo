@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>FD-Cart Demo Example</title>
+    <link href="http://cdn.fdpay.in/scripts/v1/fd-cart.css" rel="stylesheet"></link>
+    <style>
+        body {
+            margin-top:10px;
+        }
+        .prdImg {
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+            width:auto !important;
+            height:300px;
+                  padding: 10px;
+        }
+        .card {
+            box-shadow: 0 0px 0px 0 !important;
+            border: 1px solid #ececec;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="http://fdpay.in/img/logos-main/logo_01.png" alt="fdpay" style="height: 65px;">
+        <div class="row">
+            <div class="col s6 m4">
+                <div class="card">
+                    <div class="card-image">
+                        <img src="http://images.abofcdn.com/catalog/images/2015/LEVIA16AMDMTE9000309/Front_Large.jpg" class="prdImg" />
+
+                    </div>
+                    <div class="card-content">
+                        I love this tshirt.
+                    </div>
+                    <div class="card-action">
+                        <button class="fd-button btn waves-effect waves-light" fd-color="red"
+                            fd-description="I love this tshirt" fd-id="2454323"
+                            fd-image="http://images.abofcdn.com/catalog/images/2015/LEVIA16AMDMTE9000309/Front_Large.jpg" fd-name="Levis Tees"
+                            fd-price="1" fd-qty="1" fd-size="xl" fd-wt="500" name="action" type="submit">
+                            Add To Cart
+                <i class="material-icons right">send</i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="col s6 m4">
+                <div class="card">
+                    <div class="card-image">
+                        <img src="http://static2.jassets.com/p/Puma-Funind-Graphic-Navy-Blue--Round-Neck-T-Shirt-4410-1976991-1-pdp_slider_l.jpg" class="prdImg" />
+
+                    </div>
+                    <div class="card-content">
+                        Puma Round Neck
+                    </div>
+                    <div class="card-action">
+                        <button class="fd-button btn waves-effect waves-light" fd-color="white"
+                            fd-description="Brand new T-Shirt for Sale only for fake buyers"
+                            fd-id="23232323232"
+                            fd-image="http://static2.jassets.com/p/Puma-Funind-Graphic-Navy-Blue--Round-Neck-T-Shirt-4410-1976991-1-pdp_slider_l.jpg"
+                            fd-name="Puma Round Neck" fd-price="1" fd-qty="1" fd-size="m" fd-wt="230" name="action" type="submit">
+                            Add To Cart
+                <i class="material-icons right">send</i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="col s6 m4">
+                <div class="card">
+                    <div class="card-image">
+                        <img src="http://assets.myntassets.com/w_480,q_90/assets/images/1238624/2016/3/17/11458217221531-V-Dot-Navy-Washed-Henley-T-shirt-2171458217221094-1.jpg" class="prdImg" />
+
+                    </div>
+                    <div class="card-content">
+                        V Dot Navy Washed T-shirt
+                    </div>
+                    <div class="card-action">
+                        <button class="fd-button btn waves-effect waves-light" fd-color="white"
+                            fd-description="Awesome fabric feel the tees" fd-id="233232" fd-image="http://assets.myntassets.com/w_480,q_90/assets/images/1238624/2016/3/17/11458217221531-V-Dot-Navy-Washed-Henley-T-shirt-2171458217221094-1.jpg"
+                            fd-name="V Dot Navy Washed T-shirt" fd-price="1" fd-qty="1" fd-size="m" fd-wt="230" name="action" type="submit">
+                            Add To Cart
+                <i class="material-icons right">send</i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="jquery.min.js"></script>
+    <!-- Update your token -->
+    <script id="fd-pay" src="http://cdn.fdpay.in/scripts/v1/fd-cart.js" fd-token="****your token goes here****"></script>
+</body>
+
+</html>
