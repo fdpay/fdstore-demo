@@ -32,8 +32,7 @@ Every "Add to Cart" button is a product, So you can use your own style to show y
              <div class="col s6 m4">
                 <div class="card">
                     <div class="card-image">
-                        <img src="http://images.abofcdn.com/catalog/images/2015/LEVIA16AMDMTE9000309/Front_Large.jpg" class="prdImg" />
-
+                        <img src="http://images.abofcdn.com/catalog/images/2015/LEVIA16AMDMTE9000309/Front_Large.jpg"/>
                     </div>
                     <div class="card-content">
                         I love this tshirt.
@@ -49,6 +48,35 @@ Every "Add to Cart" button is a product, So you can use your own style to show y
                     </div>
                 </div>
             </div>
+
+![preview](https://github.com/fdpay/fdstore-demo/blob/master/images/product.PNG)
+
+## Button Simple Settings 
+
+         <button class="fd-button" 
+         fd-id="SKU000001" 
+         fd-name="Puma Round Neck"
+         fd-description="Brand new T-Shirt for Sale only for fake buyers" 
+         fd-wt="250"
+         fd-price="1099" 
+         fd-qty="1" >Add To Cart</button>
+         
+
+## Button Complex Settings
+
+         <button class="fd-button" 
+         fd-id="SKU000001" 
+         fd-name="Puma Round Neck"
+         fd-description="Brand new T-Shirt for Sale only for fake buyers" 
+         fd-wt="250"
+         fd-price="1099" 
+         fd-qty="1" 
+         fd-image="http://img5a.flixcart.com/image/t-shirt/v/5/2/57190303-puma-xl-275x340-imaee3abzye53hew.jpeg" 
+         fd-size="M" 
+         fd-color="Grey"
+         fd-width="200"
+         fd-height="600">Add To Cart</button>
+         
 
 
 
