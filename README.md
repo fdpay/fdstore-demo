@@ -1,9 +1,6 @@
-# fdstore-demo
+# fd-cart demo example
 
 ## E-Commerce Settings
-
-
-
 
 ## View Orders 
 
