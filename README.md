@@ -15,41 +15,21 @@ No coding just few settings to start your own store on your own brand name. You 
 
 It's very simple just download [index.html](https://github.com/fdpay/fdstore-demo/blob/master/index.html) and update your token.
 
+## Including files
+
+        <link rel="stylesheet" type="text/css" href="jquery.pagepiling.css" />
+        
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script type="text/javascript" id="fd-pay" src="http://cdn.fdpay.in/scripts/v1/fd-cart.js" 
+        fd-token="****YOUR TOKEN GOES HERE****"></script>
+
 ## Get your token 
 
 Just login to [fdpay.in](http://fdpay.in"), verify your email id and phone number > Go to your profile section and just activate your account, you will get your token.
 
-## Why token is required ?
-
 Every account is associated with secure token, which will lead orders asscoaited to that token will be reflected on fdpay.in account, there are complete functionality to view, process and update your orders.
 
 ### NOTE: This is very important to always use your token to start with your website.
-
-## How to add products?
-
-Every "Add to Cart" button is a product, So you can use your own style to show your product but you need to add fd-attributes to every product button.
-
-             <div class="col s6 m4">
-                <div class="card">
-                    <div class="card-image">
-                        <img src="http://images.abofcdn.com/catalog/images/2015/LEVIA16AMDMTE9000309/Front_Large.jpg"/>
-                    </div>
-                    <div class="card-content">
-                        I love this tshirt.
-                    </div>
-                    <div class="card-action">
-                        <button class="fd-button btn waves-effect waves-light" fd-color="red"
-                            fd-description="I love this tshirt" fd-id="2454323"
-                            fd-image="http://images.abofcdn.com/catalog/images/2015/LEVIA16AMDMTE9000309/Front_Large.jpg" fd-name="Levis Tees"
-                            fd-price="1" fd-qty="1" fd-size="xl" fd-wt="500" name="action" type="submit">
-                            Add To Cart
-                <i class="material-icons right">send</i>
-                        </button>
-                    </div>
-                </div>
-            </div>
-
-![preview](https://github.com/fdpay/fdstore-demo/blob/master/images/product.PNG)
 
 ## Button Simple Settings 
 
@@ -77,6 +57,40 @@ Every "Add to Cart" button is a product, So you can use your own style to show y
          fd-width="200"
          fd-height="600">Add To Cart</button>
          
+
+## How to add products?
+Every "Add to Cart" button is a product, So you can use your own style to show your product but you need to add fd-attributes to every product button.
+
+             <div class="col s6 m4">
+                <div class="card">
+                    <div class="card-image">
+                        <img src="http://images.abofcdn.com/catalog/images/2015/LEVIA16AMDMTE9000309/Front_Large.jpg"/>
+                    </div>
+                    <div class="card-content">
+                        I love this tshirt.
+                    </div>
+                    <div class="card-action">
+                        <button class="fd-button btn waves-effect waves-light" fd-color="red"
+                            fd-description="I love this tshirt" fd-id="2454323"
+                            fd-image="http://images.abofcdn.com/catalog/images/2015/LEVIA16AMDMTE9000309/Front_Large.jpg" fd-name="Levis Tees"
+                            fd-price="1" fd-qty="1" fd-size="xl" fd-wt="500" name="action" type="submit">
+                            Add To Cart
+                <i class="material-icons right">send</i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+![preview](https://github.com/fdpay/fdstore-demo/blob/master/images/product.PNG)
+
+## Resources
+
+- Jquery by Google (Jquery Extension)
+- Material Design (Style and Effects)
+
+
+
+
 
 
 
