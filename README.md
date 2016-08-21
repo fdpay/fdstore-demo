@@ -83,15 +83,21 @@ Every "Add to Cart" button is a product, So you can use your own style to show y
 
 ![preview](https://github.com/fdpay/fdstore-demo/blob/master/images/product.PNG)
 
+## Conclusion
+
+You website is ready to launch, You can add as many product you want, It is just an extension of Jquery(Javascript Framework), with preintegrated payment gateway so you no need to worry about payment solution, No need to hire any developer and no need to invest any single penny, 
+
+You will be getting awesome and cool website in just few mints. 
+
+## Who is using fdpay.in
+
+![namkeenvilla] (http://namkeenvilla.com)
+![nafinternational] (http://nafinternational.com)
+
+### Now next can be you :) 
+
 ## Resources
 
 - Jquery by Google (Jquery Extension)
 - Material Design (Style and Effects)
 
-
-
-
-
-
-
-### We don't recommended to change settings as many users are using the same account for demo app so don't change settings.
