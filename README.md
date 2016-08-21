@@ -17,15 +17,14 @@ It's very simple just download [index.html](https://github.com/fdpay/fdstore-dem
 
 ## Get your token 
 
-Just login to <a href="http://fdoay.in" target="_blank">fdpay.in</a>, verify your email id and phone number > Go to your profile section and just activate your account, you will get your token.
+Just login to [fdpay.in](http://fdpay.in"), verify your email id and phone number > Go to your profile section and just activate your account, you will get your token.
+
+## Why token is required ?
+
+Every account is associated with secure token, which will lead orders asscoaited to that token will be reflected on fdpay.in account, there are complete functionality to view, process and update your orders.
+
+### NOTE: This is very important to always use your token to start with your website.
 
 
-
-
-	Login to [http://test.fdpay.in/] <br/>
-	email id : admin@demo.com
-	password : demo@123
-
-##Note
 
 ### We don't recommended to change settings as many users are using the same account for demo app so don't change settings.
