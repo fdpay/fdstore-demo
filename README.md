@@ -25,6 +25,31 @@ Every account is associated with secure token, which will lead orders asscoaited
 
 ### NOTE: This is very important to always use your token to start with your website.
 
+## How to add products?
+
+Every "Add to Cart" button is a product, So you can use your own style to show your product but you need to add fd-attributes to every product button.
+
+             <div class="col s6 m4">
+                <div class="card">
+                    <div class="card-image">
+                        <img src="http://images.abofcdn.com/catalog/images/2015/LEVIA16AMDMTE9000309/Front_Large.jpg" class="prdImg" />
+
+                    </div>
+                    <div class="card-content">
+                        I love this tshirt.
+                    </div>
+                    <div class="card-action">
+                        <button class="fd-button btn waves-effect waves-light" fd-color="red"
+                            fd-description="I love this tshirt" fd-id="2454323"
+                            fd-image="http://images.abofcdn.com/catalog/images/2015/LEVIA16AMDMTE9000309/Front_Large.jpg" fd-name="Levis Tees"
+                            fd-price="1" fd-qty="1" fd-size="xl" fd-wt="500" name="action" type="submit">
+                            Add To Cart
+                <i class="material-icons right">send</i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+
 
 
 ### We don't recommended to change settings as many users are using the same account for demo app so don't change settings.
