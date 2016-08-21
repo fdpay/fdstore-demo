@@ -5,9 +5,33 @@ No coding just few settings to start your own store on your own brand name. You 
 
 ![preview](https://github.com/fdpay/fdstore-demo/blob/master/images/full-screen.PNG)
 
-## fd cart 
+## Features 
 
+- Readymade Cart (No Coding)
+- Cart Manipulation
+  - Add Product 
+  - Delete Product
+  - Update Product Quantity
+- Login Feature : register one time and shop from all partner site without registration.
+  - Guest Checkout (Auto registration of user on fdpay.in in case of new user)
+  - Login (Login will your fdpay.in login which will be valid accorss all our partner sites, So one login and shop from every where.)
+  - Forgot Password
+- Address Feature : add your address one time on any partner site it will be avaible to all our partner site those how are using our plugin
+  - View all your previous address
+  - Add new address (Simple and Quick)
+  - Delete the non existing address
+- Cart Preview : user can preview cart before shop and validate to avoid false payment or false order.
+- Pre Intergated Payment Gateway
+  - Netbanking (All major banks of India)
+  - Credit Card, Debit Card, American Express (We except all kind of cards)
+  - Wallet (paytm, payumoney, freecharge, mobikwik, olamoney)
+We secure our payment using razorpay, easebuzz, payumoney, instamojo and lot more payment solution.
+
+
+
+## fd cart 
 ![preview](https://github.com/fdpay/fdstore-demo/blob/master/images/cart.PNG)
+
 
 ## <a href="http://fdpay.in/cart/index.html" target="_blank">Live Demo</a>
 
@@ -25,7 +49,7 @@ It's very simple just download [index.html](https://github.com/fdpay/fdstore-dem
 
 ## Get your token 
 
-Just login to [fdpay.in](http://fdpay.in"), verify your email id and phone number > Go to your profile section and just activate your account, you will get your token.
+Just login to [fdpay.in](http://fdpay.in), verify your email id and phone number > Go to your profile section and just activate your account, you will get your token.
 
 Every account is associated with secure token, which will lead orders asscoaited to that token will be reflected on fdpay.in account, there are complete functionality to view, process and update your orders.
 
