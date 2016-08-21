@@ -91,8 +91,8 @@ You will be getting awesome and cool website in just few mints.
 
 ## Who is using fdpay.in
 
-![namkeenvilla] (http://namkeenvilla.com)
-![nafinternational] (http://nafinternational.com)
+- [namkeenvilla] (http://namkeenvilla.com)
+- [nafinternational] (http://nafinternational.com)
 
 ### Now next can be you :) 
 
