@@ -11,7 +11,16 @@ No coding just few settings to start your own store on your own brand name. You 
 
 ## <a href="http://fdpay.in/cart/index.html" target="_blank">Live Demo</a>
 
-## View Orders 
+## How to use this sample code 
+
+It's very simple just download [index.html](https://github.com/fdpay/fdstore-demo/blob/master/index.html) and update your token.
+
+## Get your token 
+
+Just login to <a href="http://fdoay.in" target="_blank">fdpay.in</a>, verify your email id and phone number > Go to your profile section and just activate your account, you will get your token.
+
+
+
 
 	Login to [http://test.fdpay.in/] <br/>
 	email id : admin@demo.com
