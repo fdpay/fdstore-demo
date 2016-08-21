@@ -9,7 +9,7 @@ No coding just few settings to start your own store on your own brand name. You 
 
 ## How to use this sample code 
 
-It's very simple just download [index.html](https://github.com/fdpay/fdstore-demo/blob/master/index.html) and update your token.
+It's very simple just download [index.html](https://github.com/fdpay/fdstore-demo/blob/master/index.html) and update your token, or you can also follow the below steps, to start your own html file.
 
 ## Including files
 
