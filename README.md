@@ -25,9 +25,31 @@ No coding just few settings to start your own store on your own brand name. You 
   - Netbanking (All major banks of India)
   - Credit Card, Debit Card, American Express (We except all kind of cards)
   - Wallet (paytm, payumoney, freecharge, mobikwik, olamoney)
+
 We secure our payment using razorpay, easebuzz, payumoney, instamojo and lot more payment solution.
 
+Store owner can update there store settings from there panel at fdpay.in 
+- Update Cart Icon Color and Position 
+  - "top-right" corner position and "red" color is the default value for cart icon.
+- Shipping Cost
+  - Specify Avg Shipping Cost (50 Rs. per 500grm is default value.)
+  - Free Shipping feature (if Specifed cost is 0 then there will be no shipping on website)
+  - Custom shipping (if Store want to specify free shipping on purchase of 2000 Rs. something like this.)
+- Global Discount on Cart (always in percentage)
+  -  for example if you want to specify 5% discount on website
+  -  for example if you want to specify 10% discount when cart value more than 2000 Rs.
+- Extra Charges on Cart (always in percentage), Store owner can specify deduction like service charges, payment gateway charges etc.
+- Tax Deduction settings on Store
+- Secure your token, so no one can use your token.
+- Orders Management
+  - Update Orders Status (SHIPPED, REJECT, CANCEL, READY TO SHIP, DELIVERED, COMPLET)
+  - Reject Orders (refund on the fly)
+  - Auto Generated Invoice (integrated with QR Code, to scan and view on mobile phone.)
+  - Auto Generated Shipping Label for each orders.
+  - Pre Integrated Shipping Tracking System with top 22 Shipping brands.
+- All your order settelment will goes to your bank accounts.
 
+many more features yet to come ... 
 
 ## fd cart 
 ![preview](https://github.com/fdpay/fdstore-demo/blob/master/images/cart.PNG)
