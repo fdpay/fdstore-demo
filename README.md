@@ -81,67 +81,66 @@ Every "Add to Cart" button is a product, So you can use your own style to show y
 
 ## Congratulations, Website is ready 
 
-You website is ready to launch, You can add as many product you want. fdpay plugin is a Jquery(Javascript Framework) extension with preintegrated payment gateway so you no need to worry about payment solution. No need to invest a single penny on a developer. 
+You website is ready to launch, You can add as many product you want. fdpay plugin is a Jquery(Javascript Framework) extension with preintegrated payment gateway so  no need to worry about payment solution. No need to invest a single penny on a developer. 
 
 You will be getting an awesome website in just few mins. 
 
-In case, if you don't have your own domain or server, you can contact us(fdpay.in@gmail.com) we will provide you with free space on our server so that you can host there or  you can also use any of the open source platforms(few mentioned below).Just copy paste your code and you are all done.
+In case, if you don't have your own domain or server, you can contact us(fdpay.in@gmail.com) we will provide you with free space on our server so that you can host there or  you can also use any of the open source platforms available online(ex. Wordpress,Blogspot).Just copy paste your code and you are all set.
 
 - Host on BlogSpot [sample app](http://fdpay.blogspot.in/2016/08/demo.html)
 - Host on wordpress [sample app] (http://fdpay.my-style.in/wordpress/sample-page/)
 - [own free website](http://www.own-free-website.com/) here is fdpay demo app [sample app](http://fdpay.page.tl/)
 - [Free Website](http://www.n.nu/) here is fdpay demo app [sample app](http://www.fdpay.n.nu/)
 
-You are free to use any online free website provider and do your setting and start selling your products.
 
 ## Features 
 
-- Readymade Cart (No Coding)
+- Readymade Cart (No Programming required)
 - Cart Manipulation
   - Add Product 
   - Delete Product
   - Update Product Quantity
-- Login Feature : register one time and shop from all partner site without registration.
+- Login Feature : Register once and shop from all partner sites(websites wth fdpay plugin integrated) without registration.
   - Guest Checkout (Auto registration of user on fdpay.in in case of new user)
-  - Login (Login will your fdpay.in login which will be valid accorss all our partner sites, So one login and shop from every where.)
+  - Login (Your fdpay.in account which will be valid across all our partner sites, so shop from everywhere with one account.)
   - Forgot Password
-- Address Feature : add your address one time on any partner site it will be avaible to all our partner site those how are using our plugin
-  - View all your previous address
+- Address Feature : Add your address once on any partner site, it will be available on all our partner sites.
+  - Use any of your added addresses.
   - Add new address (Simple and Quick)
   - Delete the non existing address
-- Cart Preview : user can preview cart before shop and validate to avoid false payment or false order.
+- Cart Preview : User can preview cart before shop and validate to avoid false payment or false order.
 - Pre Intergated Payment Gateway
-  - Netbanking (All major banks of India)
-  - Credit Card, Debit Card, American Express (We except all kind of cards)
+  - Netbanking (All public and private banks of India)
+  - Credit Card, Debit Card, American Express (We accept all kind of cards)
   - Wallet (paytm, payumoney, freecharge, mobikwik, olamoney)
 
-We secure our payment using razorpay, easebuzz, payumoney, instamojo and lot more payment solution.
+We secure the payments using razorpay, easebuzz, payumoney, instamojo and lot more payment solution.
 
-Store owner can update there store settings from there panel at fdpay.in 
+Store owners can update there store settings from there panel at fdpay.in 
 - Update Cart Icon Color and Position 
   - "top-right" corner position and "red" color is the default value for cart icon.
 - Shipping Cost
-  - Specify Avg Shipping Cost (50 Rs. per 500grm is default value.)
-  - Free Shipping feature (if Specifed cost is 0 then there will be no shipping on website)
-  - Custom shipping (if Store want to specify free shipping on purchase of 2000 Rs. something like this.)
+  - Specify Avg Shipping Cost (Rs.50 per 500grm is default value.)
+  - Free Shipping feature (if specifed cost is 0 then there will be no shipping on website)
+  - Custom shipping (for ex-if store wants to specify free shipping on purchase of Rs.2000)
 - Global Discount on Cart (always in percentage)
-  -  for example if you want to specify 5% discount on website
-  -  for example if you want to specify 10% discount when cart value more than 2000 Rs.
-- Extra Charges on Cart (always in percentage), Store owner can specify deduction like service charges, payment gateway charges etc.
+  -  for ex -if you want to specify 5% discount on website
+  -  for ex -if you want to specify 10% discount when cart value more than 2000 Rs.
+- Extra Charges on cart (always in percentage). Store owner can specify miscellaneous deductions like service charges, payment gateway charges etc.
 - Tax Deduction settings on Store
 - Secure your token, so no one can use your token.
-- Orders Management
-  - Update Orders Status (SHIPPED, REJECT, CANCEL, READY TO SHIP, DELIVERED, COMPLET)
+- Order Management
+  - Update Order Status (SHIPPED, REJECT, CANCEL, READY TO SHIP, DELIVERED, COMPLETE)
   - Reject Orders (refund on the fly)
   - Auto Generated Invoice (integrated with QR Code, to scan and view on mobile phone.)
-  - Auto Generated Shipping Label for each orders.
-  - Pre Integrated Shipping Tracking System with top 22 Shipping brands.
-- All your order settelment will goes to your bank accounts.
+  - Auto Generated Shipping Label for every order.
+  - Pre Integrated courier companies for tracking.
+- All your order settlement will go to your bank account.
 
-### Plugin is mobile optimize (responsive) and angular enable 
-- Angular App, where you are loading product from your api, please do call `angularAddToCart();` function at the and of controller which binds your product to view, rest you are all set to go.
+### Plugin is mobile optimized (responsive) and supports angular
+- Additioal setting to do -In the Angular App, where you are loading  products from your api, make a call to `angularAddToCart();` function at the end of controller which binds your products to view, rest you are all set to go.
 
-many more features yet to come ... 
+many more features to come ... 
 
 ## fd cart 
 ![preview](https://github.com/fdpay/fdstore-demo/blob/master/images/cart.PNG)
@@ -151,7 +150,7 @@ many more features yet to come ...
 - [namkeenvilla] (http://namkeenvilla.com)
 - [nafinternational] (http://nafinternational.com)
 
-### Now next can be you :) 
+### Next can be you :) 
 
 ## Resources
 
