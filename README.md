@@ -9,7 +9,7 @@ No coding required, just few settings to start your own store with your own bran
 
 ## How to use this sample code 
 
-It's very simple just download [index.html](https://github.com/fdpay/fdstore-demo/blob/master/index.html) and update your token, or you can also follow the below steps, to start your own html file.
+It's very simple, Just download [index.html](https://github.com/fdpay/fdstore-demo/blob/master/index.html) and update your token, or you can also follow the below steps to start with your own html file.
 
 ## Including files
 
@@ -21,11 +21,11 @@ It's very simple just download [index.html](https://github.com/fdpay/fdstore-dem
 
 ## Get your token 
 
-Just login to [fdpay.in](http://fdpay.in), verify your email id and phone number > Go to your profile section and just activate your account, you will get your token.
+Just login to [fdpay.in](http://fdpay.in), verify your email id and phone number. Go to your profile section and activate your account, you will get your token.
 
-Every account is associated with secure token, which will lead orders asscoaited to that token will be reflected on fdpay.in account, there are complete functionality to view, process and update your orders.
+Every account is associated with a secure token and orders associated to that token will be reflected in your fdpay.in account. There is complete functionality available to view, process and update your orders.
 
-### NOTE: This is very important to always use your token to start with your website.
+### NOTE: It is very important to use your token to start with your website.
 
 ## Button Simple Settings 
 
@@ -79,13 +79,13 @@ Every "Add to Cart" button is a product, So you can use your own style to show y
 
 ![preview](https://github.com/fdpay/fdstore-demo/blob/master/images/product.PNG)
 
-## Congratulations, Website is ready to launch
+## Congratulations, Website is ready 
 
-You website is ready to launch, You can add as many product you want, It is just an extension of Jquery(Javascript Framework), with preintegrated payment gateway so you no need to worry about payment solution, No need to hire any developer and no need to invest any single penny, 
+You website is ready to launch, You can add as many product you want. fdpay plugin is a Jquery(Javascript Framework) extension with preintegrated payment gateway so you no need to worry about payment solution. No need to invest a single penny on a developer. 
 
-You will be getting awesome and cool website in just few mints. 
+You will be getting an awesome website in just few mins. 
 
-In Case, If you don;t have your own domain or your own server, you can contact us we will provide you free space on our server so that you can host there or else you can use any of the below open source platform and just copy paste your code and you are all done.
+In case, if you don't have your own domain or server, you can contact us(fdpay.in@gmail.com) we will provide you with free space on our server so that you can host there or  you can also use any of the open source platforms(few mentioned below).Just copy paste your code and you are all done.
 
 - Host on BlogSpot [sample app](http://fdpay.blogspot.in/2016/08/demo.html)
 - Host on wordpress [sample app] (http://fdpay.my-style.in/wordpress/sample-page/)
