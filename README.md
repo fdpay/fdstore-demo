@@ -87,9 +87,9 @@ You will be getting awesome and cool website in just few mints.
 
 In Case, If you don;t have your own domain or your own server, you can contact us we will provide you free space on our server so that you can host there or else you can use any of the below open source platform and just copy paste your code and you are all done.
 
-- Host on BlogSpot [sample](http://fdpay.blogspot.in/2016/08/demo.html)
+- Host on BlogSpot [sample app](http://fdpay.blogspot.in/2016/08/demo.html)
 - Host on wordpress
-- [own free website]http://www.own-free-website.com/ here is fdpay demo app [sample app](http://fdpay.page.tl/)
+- [own free website](http://www.own-free-website.com/) here is fdpay demo app [sample app](http://fdpay.page.tl/)
 
 You are free to use any online free website provider and do your setting and start selling your products.
 
