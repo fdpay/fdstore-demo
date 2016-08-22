@@ -90,6 +90,7 @@ In Case, If you don;t have your own domain or your own server, you can contact u
 - Host on BlogSpot [sample app](http://fdpay.blogspot.in/2016/08/demo.html)
 - Host on wordpress
 - [own free website](http://www.own-free-website.com/) here is fdpay demo app [sample app](http://fdpay.page.tl/)
+- [Free Website](http://www.n.nu/) here is fdpay demo app [sample app](http://www.fdpay.n.nu/)
 
 You are free to use any online free website provider and do your setting and start selling your products.
 
