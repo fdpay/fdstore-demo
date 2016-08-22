@@ -137,6 +137,9 @@ Store owner can update there store settings from there panel at fdpay.in
   - Pre Integrated Shipping Tracking System with top 22 Shipping brands.
 - All your order settelment will goes to your bank accounts.
 
+### Plugin is mobile optimize (responsive) and angular enable 
+- Angular App, where you are loading product from your api, please do call `angularAddToCart();` function at the and of controller which binds your product to view, rest you are all set to go.
+
 many more features yet to come ... 
 
 ## fd cart 
