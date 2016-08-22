@@ -21,7 +21,7 @@ It's very simple, just download [index.html](https://github.com/fdpay/fdstore-de
 
 ## Get your token 
 
-Do simple registration at [fdpay.in](http://fdpay.in), verify your email id and phone number. Go to your profile section and activate your account, you will get your token. or if you already register simply login and get your token from profile.
+Register at [fdpay.in](http://fdpay.in) and get your email & contact number verified. Go to your profile section and activate your account, you will get a token.If you have already registered, simply login and get your token from the profile.
 
 Every account is associated with a secure token and orders associated to that token will be reflected in your fdpay.in account. There is complete functionality available to view, process and update your orders.
 
