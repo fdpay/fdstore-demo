@@ -13,7 +13,7 @@ It's very simple just download [index.html](https://github.com/fdpay/fdstore-dem
 
 ## Including files
 
-        <link rel="stylesheet" type="text/css" href="jquery.pagepiling.css" />
+        <link rel="stylesheet" type="text/css" href="http://cdn.fdpay.in/scripts/v1/fd-cart.css" />
         
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <script type="text/javascript" id="fd-pay" src="http://cdn.fdpay.in/scripts/v1/fd-cart.js" 
